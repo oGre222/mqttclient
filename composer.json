@@ -1,13 +1,13 @@
 {
-	"name": "jesusslim/mqttclient",
+	"name": "gunnar/mqttclient",
 	"description": "php mqtt client",
 	"license": "MIT",
 	"keywords": ["mqtt"],
 	"version": "1.3",
 	"authors": [
 		{
-			"name": "jesusslim",
-			"email": "755808379@qq.com"
+			"name": "gunnar",
+			"email": "mabiao222@gmail.com"
 		}
 	],
 	"require": {

@@ -1,4 +1,4 @@
-# jesusslim/mqttclient
+# gunnar/mqttclient
 
 PHP mqtt client
 
@@ -8,7 +8,7 @@ PHP mqtt client
 
 Install:
 
-	composer require jesusslim/mqttclient
+	composer require gunnar/mqttclient
 
 If your composer not allowed dev-master,add this config
 
